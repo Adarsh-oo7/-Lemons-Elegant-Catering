@@ -9,6 +9,23 @@
   --max-width: 1200px;
 }
 
+.call-link {
+  color: #007bff; /* Link color */
+  text-decoration: none; /* Remove underline */
+  font-size: 16px; /* Adjust text size */
+  display: inline-flex;
+  align-items: center;
+  gap: 8px; /* Space between icon and text */
+}
+.call-link:hover {
+  color: #0056b3; /* Hover effect */
+  text-decoration: underline;
+}
+.call-link i {
+  font-size: 14px; /* Adjust icon size */
+}
+
+
 * {
   padding: 0;
   margin: 0;
