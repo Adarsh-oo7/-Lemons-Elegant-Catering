@@ -2,7 +2,7 @@
 
 :root {
   --primary-color: #06B45F;
-  --primary-color-dark: #bc1c5c;
+  --primary-color-dark:  #03a238;
   --text-dark: #0c0a09;
   --text-light: #78716c;
   --white: #ffffff;
@@ -21,7 +21,7 @@
   position: fixed;
   right: 20px; /* Adjust distance from the right edge */
   bottom: 20px; /* Adjust distance from the bottom edge */
-  background-color: #e4405f; /* Instagram's brand color */
+  background-color: #03a238; /* Instagram's brand color */
   color: white;
   padding: 10px;
   border-radius: 50%;
@@ -178,7 +178,7 @@ nav {
   align-items: center;
   flex-direction: column;
   gap: 2rem;
-  background-color: rgba(188, 28, 92, 0.9);
+  background-color: rgba(18, 87, 30, 0.9);
   transform: translateY(-100%);
   transition: 0.5s;
   z-index: -1;
