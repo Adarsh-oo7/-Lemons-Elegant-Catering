@@ -1,13 +1,22 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
 
 :root {
-  --primary-color: #e82574;
+  --primary-color: #06B45F;
   --primary-color-dark: #bc1c5c;
   --text-dark: #0c0a09;
   --text-light: #78716c;
   --white: #ffffff;
   --max-width: 1200px;
+
 }
+.hed{
+  font-family: 'Times New Roman', Times, serif;
+
+}
+.fr{
+  font-size: larger;
+}
+
 
 .call-link {
   color: #007bff; /* Link color */
